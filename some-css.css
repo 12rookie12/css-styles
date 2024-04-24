@@ -1,0 +1,11 @@
+
+.back-img{
+
+    background-color: antiquewhite;
+    background-image: url(img/Tumblr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0px 0px 330px;
+     
+}
