@@ -1,11 +1,11 @@
 
 .back-img{
 
-    background-color: antiquewhite;
+    /* background-color: rgb(238, 141, 14); */
     background-image: url(img/Tumblr.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-position: center;
+    background-size: cover;
+    /* background-position: center; */
     padding: 100px 50px 50px 230px;
     
 }
@@ -13,9 +13,31 @@
 #testing-para1{
 
     color: rgb(125, 240, 9);
-
+    font-family: G 
 }   
 
 .para{
-    border: 2px solid blue;
+    border: 2px solid rgb(174, 231, 15);
+    background-color: aqua;
+}  
+
+.playing-with-para{
+    line-height:40px;
+}
+.just{
+    background-image:url(img/sky.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 100px 100px 100px;
+
+}
+.just-words{
+    text-transform: capitalize; 
+    font-weight:600; 
+    line-height: 50px;
+}
+
+.alpha{
+    font-size: 50px;
+    font-weight: 500;
 }
