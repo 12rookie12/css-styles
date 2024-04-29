@@ -4,108 +4,88 @@
     background-image: url(img/Tumblr.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-<<<<<<< HEAD
-    background-position: center;
-    padding: 50px 0px 0px 330px;  
-}
-=======
     /* background-position: center; */
     padding: 100px 50px 50px 230px;
     
 }
 
->>>>>>> e6714583d9963c1d2e70d6a9fae695e706f3f61e
 #testing-para1{
 
     color: rgb(125, 240, 9);
     font-family: G 
 }   
-<<<<<<< HEAD
-=======
-
->>>>>>> e6714583d9963c1d2e70d6a9fae695e706f3f61e
 .para{
     border: 2px solid rgb(174, 231, 15);
     background-color: aqua;
 }  
-<<<<<<< HEAD
-=======
 
->>>>>>> e6714583d9963c1d2e70d6a9fae695e706f3f61e
+
 .playing-with-para{
     line-height:40px;
 }
 .just{
-<<<<<<< HEAD
+
     background-image:url(img/sky.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 200px;
     margin: 100px 100px 100px 100px;
-=======
     background-image:url(img/sky.png) ;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 100px 100px 100px 100px;
-
->>>>>>> e6714583d9963c1d2e70d6a9fae695e706f3f61e
 }
 .just-words{
     text-transform: capitalize; 
     font-weight:600; 
-<<<<<<< HEAD
-    font-size: 25px;
     line-height: 50px;
-    word-spacing: 2px;
-}
-.alpha{ 
-    font-size: 50px;
-    font-weight: 600;
-    font-family: sans-serif;
-    color:pink;
-}
-/* .alpha2{
-    font-size: 50px;
-    font-weight: 600;
-    font-family: sans-serif;
-    color: blueviolet;
-}
-.alpha3{
-    font-size: 50px;
-    font-weight: 600;
-    font-family: sans-serif;
-    color: aqua;
-} */
-
-.ko{
-    text-decoration: line-through;
-}
-.h1{
-    word-spacing: 25px;
-    text-transform: capitalize;
-    font-size: 25px;
-    
-}
-.none0{
-    font-size:50px;
-    color: rgb(32, 16, 16);
-    font-style: italic;
-    color: bisque;
-}
-/* .none0{
-    font-size: 55px;
-    color: blueviolet;
-}
-.none0{
-    font-size: 55px;
-    color: coral;
-} */
-=======
-    line-height: 50px;
+    font-size: 25px;font-style: italic;
 }
 
 .alpha{
     font-size: 50px;
     font-weight: 500;
+    word-spacing: 52px;
+    color: brown;
+    letter-spacing: 10px;
+
 }
->>>>>>> e6714583d9963c1d2e70d6a9fae695e706f3f61e
+
+/* .alpha2{
+    font-size: 50px;
+    font-weight: 500;
+    word-spacing: 52px;
+}
+.alpha3{
+    font-size: 50px;
+    font-weight: 500;
+    word-spacing: 52px;
+} */
+.h1{
+    text-transform: capitalize; 
+    font-weight:800; 
+    line-height: 50px;
+    word-spacing: 22px; 
+    font-style: italic;
+
+}
+    .none0{
+    font-size: 50px;
+    font-weight: 500;
+    color: brown;
+}  
+.malicious{
+    text-transform: lowercase;
+    /* text-transform: uppercase; */
+    /* text-transform: capitalize; */
+    text-decoration: line-through;
+}
+.call{
+    text-transform: lowercase;
+    /* text-transform: uppercase; */
+    /* text-transform: capitalize; */
+    text-decoration: line-through; 
+}
+.for{
+    color: brown ;
+}
