@@ -75,10 +75,12 @@
     color: brown;
 }  
 .malicious{
-    text-transform: lowercase;
+    text-transform: capitalize;
     /* text-transform: uppercase; */
     /* text-transform: capitalize; */
-    text-decoration: line-through;
+    /* text-decoration: line-through; */
+    text-decoration: underline;
+    text-shadow:2px 2px gray;
 }
 .call{
     text-transform: lowercase;
@@ -88,4 +90,15 @@
 }
 .for{
     color: brown ;
+    background-color: black;
+}
+/* Getting start(Intermediate) with  CSS */
+
+
+ol.a{
+    list-style-position: outside;
+}
+
+ul.b{
+    list-style-position: inside;
 }
