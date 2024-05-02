@@ -22,17 +22,19 @@
 
 .playing-with-para{
     line-height:40px;
+
 }
 .just{
-
+    border: 10px solid brown;
+    border-radius:10%;
+    border-style:groove;
     background-image:url(img/sky.png);
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-size: cover;
     padding: 200px;
     margin: 100px 100px 100px 100px;
     background-image:url(img/sky.png) ;
     background-repeat: no-repeat;
-    background-size: cover;
     padding: 100px 100px 100px 100px;
 }
 .just-words{
@@ -102,24 +104,24 @@ ol.a{
 ul.b{
     list-style-position: inside;
 }
-.lol{
-    background-image: url(img/aes.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-size: 100% 100%;
-    margin-top: 10px;
-    margin-right: 100px;
-    margin-bottom: 10px;
-    margin-left: 100px;
-    padding: 120px 450px;
-    background-color: aqua;
-    /* font-size: 25px; */
-    line-height: 52px;
+.Opacity{
+     
     opacity: 0.8;
 }
-.loll{
-    font-size: 25px;
-    font-weight: 600;
-    font-style: italic;
-    opacity: 2 !important;
+.KO{
+    background-image: url(img/no.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+    margin: 200px;
+    /* opacity: 0.5;*/
+    background:rgba(0, 0, 0, 0.5);
+    color: tr;
 }
+
+/* Opacity.fixed{
+    position:fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+} */
