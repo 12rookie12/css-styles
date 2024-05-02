@@ -22,17 +22,19 @@
 
 .playing-with-para{
     line-height:40px;
+
 }
 .just{
-
+    border: 10px solid brown;
+    border-radius:10%;
+    border-style:groove;
     background-image:url(img/sky.png);
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-size: cover;
     padding: 200px;
     margin: 100px 100px 100px 100px;
     background-image:url(img/sky.png) ;
     background-repeat: no-repeat;
-    background-size: cover;
     padding: 100px 100px 100px 100px;
 }
 .just-words{
@@ -102,3 +104,24 @@ ol.a{
 ul.b{
     list-style-position: inside;
 }
+.Opacity{
+     
+    opacity: 0.8;
+}
+.KO{
+    background-image: url(img/no.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+    margin: 200px;
+    opacity: 0.5;
+
+    
+}
+
+/* Opacity.fixed{
+    position:fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+} */
