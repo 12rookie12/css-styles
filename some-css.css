@@ -102,3 +102,24 @@ ol.a{
 ul.b{
     list-style-position: inside;
 }
+.lol{
+    background-image: url(img/aes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    padding: 120px 450px;
+    background-color: aqua;
+    /* font-size: 25px; */
+    line-height: 52px;
+    opacity: 0.8;
+}
+.loll{
+    font-size: 25px;
+    font-weight: 600;
+    font-style: italic;
+    opacity: 2 !important;
+}
